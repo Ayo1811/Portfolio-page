@@ -64,8 +64,6 @@ portfolio-page/
 - `index.html`: The main HTML file containing the structure of the website.
 - `style.css`: The CSS file containing styles for the website.
 - `README.md`: This file.
-- `assets/images/`: Directory containing images used in the project.
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the project's coding standards.
